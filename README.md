@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sahej
 - 👀 I’m interested in Web development and web-apps
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
